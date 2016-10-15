@@ -1,0 +1,9 @@
+C:\Users\ррр\Desktop\резюме\GuildSystem\bin\Debug\GuildSystem.exe.config
+C:\Users\ррр\Desktop\резюме\GuildSystem\obj\Debug\GuildSystem.csprojResolveAssemblyReference.cache
+C:\Users\ррр\Desktop\резюме\GuildSystem\bin\Debug\GuildSystem.exe
+C:\Users\ррр\Desktop\резюме\GuildSystem\bin\Debug\GuildSystem.pdb
+C:\Users\ррр\Desktop\резюме\GuildSystem\obj\Debug\GuildSystem.exe
+C:\Users\ррр\Desktop\резюме\GuildSystem\obj\Debug\GuildSystem.pdb
+C:\Users\ррр\Desktop\резюме\GuildProject\GuildSystem\bin\Debug\GuildSystem.exe.config
+C:\Users\ррр\Desktop\резюме\GuildProject\GuildSystem\obj\Debug\GuildSystem.exe
+C:\Users\ррр\Desktop\резюме\GuildProject\GuildSystem\obj\Debug\GuildSystem.pdb
